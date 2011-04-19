@@ -1,0 +1,1 @@
+/home/jian/.config/awesome/rc.lua
